@@ -24,7 +24,7 @@ def print_banner():
 
 
 def print_instrucoes():
-    print("\033[0m")  # Volta à cor padrão
+    print("\033[0m")
     print(
     'Instructions: After running the software, it will prompt for the victim\'s IP and will send numerous packets without any time interval.\n'
     '---------------------------------------------------------------------------------------------------------------------------------------\n'
